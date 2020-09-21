@@ -1,0 +1,4 @@
+#catalog = 'GWTC-1-confident'
+#GW150914 L1 H1
+#GW170814 L1 H1
+GW170817 V1 G1 L1 H1
